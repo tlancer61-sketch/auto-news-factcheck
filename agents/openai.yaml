@@ -1,0 +1,4 @@
+interface:
+  display_name: "汽车新闻真相核查"
+  short_description: "从多方证据与安全义务核查汽车新闻，用三个问题讲清事实、判断和处理路线"
+  default_prompt: "请使用 $auto-news-factcheck 核查这则汽车新闻，从第一性原理给出有依据的判断，用发生什么、问题在哪、应该怎么办三个问题生成简明图文，并附完整来源与未知信息。"
